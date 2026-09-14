@@ -1,4 +1,4 @@
-# ⚠️ This documentation is outdated.
+UQD_lvKkjRdYfHC-RKHftST8UIdrsHwpdtqKPTyVMrDkofOg# ⚠️ This documentation is outdated.
 
 See https://docs.tonconsole.com/tonkeeper/deep-linking for up-to-date info.
 
